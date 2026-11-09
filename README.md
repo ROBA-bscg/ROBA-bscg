@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Roba!
 
-<!--
-**ROBA-bscg/ROBA-bscg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering Student at EMSI
+Informatique et Réseaux (IIR)
 
-Here are some ideas to get you started:
+I'm interested in software development, systems and networks.
+I'm currently building my technical skills through coursework
+and personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies & Tools
+
+- Programming: C, C++, Python, PHP, JavaScript
+- Web: HTML, CSS
+- Database: SQL
+- Tools: Git, GitHub, Linux
+
+## Currently Learning
+
+- Object-Oriented Programming
+- Computer Networks
+- UNIX Systems
+- Web Development
+
+## Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/roba-el-ahmady/
